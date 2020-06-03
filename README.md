@@ -1,2 +1,2 @@
-leegiseo	20190334 #
-Kookmin Univ. SW #
+# 2019XXX	leegiseo
+# Koomin Univ. Computer Science
