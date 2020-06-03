@@ -1,2 +1,2 @@
 # 2019XXX	leegiseo
-# Koomin Univ. Computer Science 
+# Koomin Univ. Computer science 
